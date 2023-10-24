@@ -85,7 +85,17 @@
 }
 
 .navbar-sticky {
-    background: #fff;
+    background-color: lightgray;
     opacity: 0.9;
     box-shadow: 0 0 10 rgba(0, 0, 0, 0.5);
+}
+
+.details .decoration-star {
+    left: -200px;
+    width: 500px;
+}
+
+.details-2 .decoration-star {
+    right: -200px;
+    width: 500px;
 }
